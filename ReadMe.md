@@ -1,1 +1,12 @@
-# This is a readme file 
+# TODO
+- Create django app and models for products
+- Create serializer and views for the porducts
+- Create front page for latest products
+- View a product
+  - Create viewset in django
+  - Create Vue page for showing products
+  - Add link to detail page
+- Sette opp Vuex/ State
+- Function: add to cart
+  - Add functionality to Vuex
+  - 
